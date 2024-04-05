@@ -1,0 +1,13 @@
+.titleTravel_textarea {
+  font-family: 'Montserrat', sans-serif;
+  height: 25px;
+  resize: none;
+  width: 350px;
+  border: none;
+  border: 1px black solid;
+  font-size: 19px;
+  border-radius: 3px;
+  padding: 15px;
+  margin-top: 20px;
+  white-space: pre;
+}

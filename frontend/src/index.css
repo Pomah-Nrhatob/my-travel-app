@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url("/public/Montserrat_font/Montserrat-Medium.ttf") format("truetype");
+}
+
+body,
+html {
+  /* font-family: "Monaspace", sans-serif; */
+  margin: 0;
+  padding: 0;
+}

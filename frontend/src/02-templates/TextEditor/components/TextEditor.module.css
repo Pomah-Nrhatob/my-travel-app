@@ -1,0 +1,35 @@
+.editor_main {
+  border: 1px gray solid;
+  font-family: 'Montserrat', sans-serif;
+  cursor: text;
+  min-height: 250px;
+  padding: 30px;
+}
+
+.DraftEdtior-root {
+  height: 100%;
+}
+
+.panel_textEditor {
+  flex-direction: column;
+  display: flex;
+  gap: 6px;
+  background-color: rgb(224, 224, 229);
+  border: 1px solid gray;
+  padding: 10px;
+}
+
+.panel_textEditor > button {
+  border: none;
+  cursor: pointer;
+  background: transparent;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+}
+
+.superFancyBlockquote {
+  color: #999;
+  font-family: 'Hoefler Text', Georgia, serif;
+  font-style: italic;
+  text-align: center;
+}

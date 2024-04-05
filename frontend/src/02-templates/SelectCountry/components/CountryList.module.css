@@ -1,0 +1,9 @@
+.ul_main {
+  width: 100%;
+  border: 1px solid rgba(228, 23, 23, 0.681);
+  border-top: none;
+  margin: 0;
+  padding: 7px;
+  height: 250px;
+  overflow-y: scroll;
+}

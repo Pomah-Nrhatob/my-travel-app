@@ -1,0 +1,18 @@
+.li_singleCountry {
+  list-style-type: none;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 3px;
+}
+
+.li_singleCountry_deactive {
+  padding: 3px;
+  list-style-type: none;
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 5px;
+  font-size: 16px;
+  background-color: rgb(234, 232, 232);
+  cursor: no-drop;
+}

@@ -1,0 +1,35 @@
+.titleTravel_textarea {
+  font-family: 'Montserrat', sans-serif;
+  height: 16px;
+  resize: none;
+  width: 250px;
+  border: none;
+  border: 1px black solid;
+  font-size: 13px;
+  border-radius: 3px;
+  padding: 15px;
+  margin-top: 20px;
+  white-space: pre;
+}
+
+.modal_window {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.modal_buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.modal_buttons > button {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  background: transparent;
+  border: 1px solid red;
+  border-radius: 3px;
+  padding: 7px;
+  cursor: pointer;
+}

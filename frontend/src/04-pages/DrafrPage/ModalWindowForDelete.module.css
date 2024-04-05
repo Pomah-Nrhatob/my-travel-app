@@ -1,0 +1,27 @@
+.modal_window {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.modal_window > span {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+
+.modal_buttons {
+  display: flex;
+  gap: 20px;
+}
+
+.modal_buttons > button {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  background: transparent;
+  border: 1px solid red;
+  border-radius: 3px;
+  padding: 7px;
+  cursor: pointer;
+}
